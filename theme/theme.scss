@@ -1,0 +1,88 @@
+//Theme1***************************************************************
+
+//Backgrounds**************************************
+//(main background)
+$theme1-blue-bg-main: hsl(222, 26%, 31%);
+//(toggle background, keypad background)
+$theme1-blue-bg-keypad-toggle: hsl(223, 31%, 20%);
+//(screen background)
+$theme1-blue-bg: hsl(224, 36%, 15%);
+
+//Keys*********************************************
+//(key background)
+$theme1-blue-bg-key: hsl(225, 21%, 49%);
+//(key shadow)
+$theme1-blue-key-shadow: hsl(224, 28%, 35%);
+//(key background, toggle)
+$theme1-red-key-bg-toggle: hsl(6, 63%, 50%);
+//(key shadow)
+$theme1-red-key-shadow: hsl(6, 70%, 34%);
+
+//onhover//////////////////////////
+//(key background)
+$theme1-grayish-orange-bg-key-oh: hsl(30, 25%, 89%);
+//(key shadow)
+$theme2-grayish-orange-key-shadow-oh: hsl(28, 16%, 65%);
+
+//Text**********************************************
+$theme1-grayish-blue-text: hsl(221, 14%, 31%);
+$theme1-white-text: hsl(0, 0, 100%);
+
+//Theme2***************************************************************
+
+//Backgrounds***************************************
+//(main background)
+$theme2-light-gray-bg: hsl(0, 0%, 90%);
+//(toggle background, keypad background)
+$theme2-grayish-red-bg-keypad-toggle: hsl(0, 5%, 81%);
+//(screen background)
+$theme2-very-light-gray-bg-screen: hsl(0, 0%, 93%);
+
+//Keys**********************************************
+//(key background)
+$theme2-moderate-cyan-bg: hsl(185, 42%, 37%);
+//(key shadow)
+$theme2-dark-cyan-key-shadow: hsl(185, 58%, 25%);
+//(key background, toggle)
+$theme2-orange-bg-key-toggle: hsl(25, 98%, 40%);
+//(key shadow)
+$theme2-dark-orange-key-shadow: hsl(25, 99%, 27%);
+
+//onhover//////////////////////////
+//(key background)
+$theme2-grayish-yellow-bg-oh: hsl(45, 7%, 89%);
+//(key shadow)
+$theme2-grayish-orange-shadow-oh: hsl(35, 11%, 61%);
+
+//Text*********************************************
+
+$theme2-dark-grayish-yellow-text: hsl(60, 10%, 19%);
+$theme2-white-text: hsl(0, 0, 100%);
+
+//Theme3***************************************************************
+
+//Backgrounds**************************************
+//(main background)
+$theme3-dark-violet-bg: hsl(268, 75%, 9%);
+//(toggle background, keypad background, screen background)
+$theme3-dark-violet-bg-keypad-toggle: hsl(268, 71%, 12%);
+
+//Keys*********************************************
+//(key background)
+$theme3-dark-violet-key-bg: hsl(281, 89%, 26%);
+//(key shadow)
+$theme3-vivid-magenta-key-shadow: hsl(285, 91%, 52%);
+//(key background, toggle)
+$theme3-pure-cyan-bg-key-toggle: hsl(176, 100%, 44%);
+//(key shadow)
+$theme3-soft-cyan-key-shadow: hsl(177, 92%, 70%);
+//(key background)
+$theme3-dark-violet-bg-oh: hsl(268, 47%, 21%);
+//(key shadow)
+$theme3-dark-magenta-hey-shadow-oh: hsl(290, 70%, 36%);
+
+//Text*********************************************
+
+$theme3-light-yellow-text: hsl(52, 100%, 62%);
+$theme3-very-dark-blue-text: hsl(198, 20%, 13%);
+$theme3-white-text: hsl(0, 0, 100%);
