@@ -1,31 +1,4 @@
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-
-.attribution a {
-  color: #3e52a3;
-  color: #182034;
-}
-
-* {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  border: 1px solid red;
-}
-
-:root {
-  font-size: 62.5%;
-}
-
-body {
-  font-family: 'Spartan', sans-serif;
-}
-
 .theme-toggle {
-  width: 80px;
   border-radius: 20px;
   padding: 0 3px;
   display: -webkit-box;
@@ -55,10 +28,6 @@ body {
           align-items: center;
 }
 
-.custom-radio-button input {
-  display: none;
-}
-
 .custom-radio-button .checkmark {
   width: calc(100% - 6px);
   height: calc(100% - 6px);
@@ -74,4 +43,4 @@ body {
   opacity: 1;
   display: inline-block;
 }
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=toggle.css.map */

@@ -1,31 +1,4 @@
-@import '../theme/theme.scss';
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
-  color: $theme1-blue-bg;
-}
-
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
-  border: 1px solid red;
-}
-
-:root {
-  font-size: 62.5%;
-}
-
-body {
-  font-family: 'Spartan', sans-serif;
-}
-
 .theme-toggle {
-  width: 80px;
   border-radius: 20px;
   padding: 0 3px;
   display: flex;
@@ -43,9 +16,9 @@ body {
   align-items: center;
 }
 
-.custom-radio-button input {
-  display: none;
-}
+// .custom-radio-button input {
+//   display: none;
+// }
 
 .custom-radio-button .checkmark {
   width: calc(100% - 6px);
